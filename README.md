@@ -50,3 +50,6 @@ Python
 
 X = data.drop("target_column", axis=1)  # Features
 y = data["target_column"]  # Target variable
+
+![WhatsApp Image 2025-01-18 at 12 59 38 PM](https://github.com/user-attachments/assets/19c6199a-a478-489e-9c3e-b19ada1b05b8)
+
